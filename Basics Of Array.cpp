@@ -1,9 +1,9 @@
-//#include <iostream>
-//#include <climits>
-//using namespace std;
+#include <iostream>
+#include <climits>
+using namespace std;
 
 //       TAKING ARRAY FROM USER AND PRINTING
-/*int main()
+int main()
 {
     int n;
     cin>>n;
@@ -17,11 +17,11 @@
         cout<<array[i]<<"  ";
     }
     return 0;
-}*/
+}
 
 // FINDING MAXIMUM OF THE GIVEN NUMBERS FROM ARRAY
 
-/*int main()
+int main()
 {
     int n;
     cout<<"Enter the value of n:";
@@ -49,4 +49,4 @@
     }
     cout<<maxno<<endl;
     cout<<minno;
-}*/
+}
