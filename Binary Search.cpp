@@ -1,6 +1,6 @@
 //    BINARY SEARCH
 
-/*int binary_search(int arr[], int n , int key) {
+int binary_search(int arr[], int n , int key) {
     int low = 0;
     int high = n;
     while (low <= high) {
@@ -38,4 +38,4 @@
      cout<<binary_search(arr,n,key);
      return 0;
  }
-*/
+
