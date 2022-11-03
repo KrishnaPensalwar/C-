@@ -1,9 +1,9 @@
 //   LINEAR SEARCH
 
 #include <iostream>
-//using namespace std;
+using namespace std;
 
-/*int linear_search ( int array[] , int n, int key)
+int linear_search ( int array[] , int n, int key)
 {
     for(int i=0;i<n;i++)
     {
@@ -31,5 +31,5 @@ int main()
 
     cout<<"Index of the key is:"<<linear_search(array, n, key);
 
-}*/
+}
 
