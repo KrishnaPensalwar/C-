@@ -1,6 +1,6 @@
 //       SELECTION SORT
 
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 
 int selection_sort()
@@ -40,5 +40,5 @@ int main()
         cout<<array[i]<<"  ";
     }
 }
-*/
+
 
